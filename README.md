@@ -1,4 +1,4 @@
-# Diet-Recommendation-System
+# Diet Recommendation System
 This is a **Prolog-based expert system** that recommends personalized diet plans based on a user's health goals, allergies, age group, and food preferences. The system uses a set of predefined logical rules to match user inputs with suitable nutritional strategies.
 
 
@@ -43,5 +43,9 @@ The system then uses the predicate `suggest(D)` to output the most suitable diet
 
 
 ## Output Example
+![Image](https://github.com/user-attachments/assets/8efd2a96-e937-4c43-901d-3d4db44924eb)
 
+-----------------------------------------------------------------------------------------
+
+![Image](https://github.com/user-attachments/assets/a0d678ea-8467-45fc-9419-1ef2efc4df74)
 
